@@ -13,8 +13,7 @@ Certain functionality may be out of scope of the project as a function of cost o
 
 1. Designing program. By using cases established in the analysis phase determining the specific properties and methods the program will need to perform the desired tasks. Properties are the pieces of information or data that will be collected, manipulated and stored. Methods are the programs within the application that will manipulate the data to enforce business rules, save the data to the database, and present data to users.
 2. _Version_
-
-    2.1. **Pre-Alpha** - Pre-Alpha is the stage of collating together Ideas, sometimes with code written, but not always.
+    1. **Pre-Alpha** - Pre-Alpha is the stage of collating together Ideas, sometimes with code written, but not always.
 
 ## Implementation and Integration
 
@@ -22,9 +21,9 @@ Implementation is the part of the process where our software engineers actually 
 
 1. Developing the software application. By using the design specifications writing the properties, methods and events required to complete the tasks required. Development is an iterative process: creating a small piece and test to see if it does what expected, then moving on to another piece of the application.
 2. _Versions_
-    2.1. **Alpha** - In this stage, some preliminary code has been written, and implemented, although not a great deal of stability can be expected.
-    2.2. **Beta** - In Beta Stage, most of the code has been written and implemented, with a reasonable level of usability expected, although some errors can, and usually will be experienced. Even in Beta Stage, the software's design is by no means finalized.
-    2.3. **Preview Release** - A Preview Release is one step down from a Release Candidate, and is not an often used stage.
+    1. **Alpha** - In this stage, some preliminary code has been written, and implemented, although not a great deal of stability can be expected.
+    2. **Beta** - In Beta Stage, most of the code has been written and implemented, with a reasonable level of usability expected, although some errors can, and usually will be experienced. Even in Beta Stage, the software's design is by no means finalized.
+    3. **Preview Release** - A Preview Release is one step down from a Release Candidate, and is not an often used stage.
 
 ## Testing (or Validation)
 
@@ -32,7 +31,7 @@ This part of the process ensures that defects are recognized as soon as possible
 
 1. Testing the application. Because software is so complex it will often perform in unexpected ways. This is to be expected and requires testing to identify the bugs in the code and make the changes necessary to meet the design requirements.
 2. _Version_
-    2.1. **Release Candidate** - When a Release Candidate is used, it's design is usually finalized, with about 95% of the code finalized.
+    1. **Release Candidate** - When a Release Candidate is used, it's design is usually finalized, with about 95% of the code finalized.
 
 ## Documenting
 
@@ -42,7 +41,7 @@ Documenting the internal design of software for the purpose of future maintenanc
 2. Writing documentation. End users will need a manual that includes detailed instructions for each task the software application can perform. Effective documentation will help users and save technical support the trouble of answering basic questions. Additionally, the software support personnel will need complete code specifications to make upgrades and troubleshoot bugs that were missed in the initial testing phase.
 3. Creating a pilot program. End users have a different perspective than developers and software testers. They will often identify problems that are missed by the development team. A pilot program provides an opportunity to work out the final problems with the software so they can be corrected before deployment.
 4. _Version_
-    4.1. **Final Release** - Version 1.0, as it's typically referred to, is a much-revered status for any software application.
+    1. **Final Release** - Version 1.0, as it's typically referred to, is a much-revered status for any software application.
 
 ## Deployment (or Installation)
 
@@ -57,7 +56,7 @@ Software training and support is important, as software is only effective if it 
 Maintaining and enhancing software to cope with newly discovered faults or requirements can take substantial time and effort, as missed requirements may force redesign of the software.
 
 1. _Version (if needed)_
-    1.1. **Additional Release** - Version 1.0 won't be the last release for a product.
+    1. **Additional Release** - Version 1.0 won't be the last release for a product.
 
 | Task                         |  Optimistic | Most likely |  Pessimistic |    Expected | Parallel with the previous |
 | ---------------------------- | ----------: | ----------: | -----------: | ----------: | -------------------------: |
